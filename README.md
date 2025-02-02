@@ -6,9 +6,9 @@ Este es un pequeño juego en el que puedes agregar nombres de amigos a una lista
 
 Ingresa el nombre de un amigo en el campo de texto.
 
-Presiona el botón para agregarlo a la lista.
+Presiona el botón de añadir para agregarlo a la lista.
 
-Una vez agregados todos los participantes, presiona el botón de "Sortear" para elegir un ganador al azar.
+Una vez agregados todos los participantes, presiona el botón de "Sortear Amigo" para elegir un ganador al azar.
 
 Se mostrará el nombre del amigo ganador.
 
@@ -24,7 +24,7 @@ JavaScript
 
 Clona este repositorio:
 
-git clone https://github.com/tu-usuario/nombre-del-repo.git
+git clone 
 
 Abre el archivo index.html en tu navegador.
 
