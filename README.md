@@ -24,7 +24,7 @@ JavaScript
 
 Clona este repositorio:
 
-git clone 
+git clone https://github.com/Juan-Riboldi/challenge-amigo-secreto.git
 
 Abre el archivo index.html en tu navegador.
 
